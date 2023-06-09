@@ -97,7 +97,8 @@ pkg install yarn
 ```    
 
 ```bash
-git clone https://github.com/Fabri115/botwhaita.git
+git clone https://github.com/diocreatore
+/botwhaita.git
 ```
   
 ```bash
