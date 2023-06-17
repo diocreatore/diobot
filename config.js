@@ -67,7 +67,7 @@ global.faceb = ''
 
 global.vs = 'Mi0 2.1'
 
-global.lb = 'SUPERFABRIBOT-MD'
+global.lb = 'DIOBOT-MD'
 global.lolibot = lb
 
 global.dygp = 'https://chat.whatsapp.com/BHZDSUDHuwWEed4Ut8aeUQ' //grupo del bot
@@ -81,7 +81,7 @@ global.maxwarn = '4' // máxima advertencias
 
 //━━━━━━━━━━━━━━━━━━━━ ฅ^•ﻌ•^ฅ
 
-global.wm = 'SUPERFABRIBOT-MD'
+global.wm = 'DIOBOT-MD'
 global.wait = '*⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
